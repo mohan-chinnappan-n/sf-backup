@@ -127,7 +127,7 @@
 
 ## Archiving Data
 ![Archiving](img/archive-1.png)
-
+![Archiving options](img/archive-options-1.png)
 
 ## Resources
 - [Best practices to backup Salesforce data](https://help.salesforce.com/articleView?id=000334121&type=1&mode=1)
