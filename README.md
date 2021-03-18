@@ -77,12 +77,8 @@
 
 - API method
 ![API methods](img/api-method-1.png)
-
 ![API methods2](img/api-method-2.png)
 
-![Considerations](img/considerations-1.png)
-
-![Platform Considerations](img/platform-considerations-1.png)
 
 
 - [Using ANT migration tool](https://developer.salesforce.com/docs/atlas.en-us.daas.meta/daas/forcemigrationtool_install.htm)
@@ -95,6 +91,12 @@
 
 ## Prepare for data restore
 ![Restore-1](img/restore-1.png)
+
+![Considerations](img/considerations-1.png)
+![Platform Considerations](img/platform-considerations-1.png)
+### Recovery flow
+![recovery flow](img/recovery-flow-1.png)
+
 
 
 
