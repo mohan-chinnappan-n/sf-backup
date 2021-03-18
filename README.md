@@ -7,6 +7,11 @@
 ## Key message
 - Develop a routine data backup strategy as part of their overall data management and security model.  
 
+
+## Data and metadata
+
+![data metadata](img/data-metadata-1.png)
+
 ### Data
 - Data refers to all of your records, including Accounts, Contacts, Leads, Opportunities, Cases, Contracts, and other records. 
 - Data also includes your custom object records, files, content, and Chatter.
@@ -49,22 +54,40 @@
 
 
 
-
+## Backup and Recovery Offerings
+![offerings-1](img/backup-options-1.png)
 
 ## Native Options for backing up the data
+![data export service](img/dataExport-service-1.png)
 - [Export Backup Data from Salesforce UI](https://help.salesforce.com/articleView?id=sf.admin_exportdata.htm&type=5)
 ![Native backup-1](img/dataexport-1.gif)
+- Not supported features:
+    - Formula fields
+    - Rollup Summary
+
 - [Manual: Export data using Dataloader](https://help.salesforce.com/articleView?id=sf.exporting_data.htm&type=5)
 - [Manual on-demand exports of your data via reports](https://help.salesforce.com/articleView?id=sf.reports_export.htm&type=5)
+![Report export](img/reportExport-1.png)
 
 ## Native Options for backing up the metadata
 - [Change Sets](https://help.salesforce.com/articleView?id=changesets.htm&type=5)
 - [Sandbox Refresh](https://help.salesforce.com/articleView?id=data_sandbox_create.htm&type=5)
+![sandbox copy](img/fullcopy-sbx-copy.png)
+    - Can be refreshed once in 29 days
+- [API method]
+![API methods](img/api-method-1.png)
+![API methods2](img/api-method-2.png)
+-
 - [Using ANT migration tool](https://developer.salesforce.com/docs/atlas.en-us.daas.meta/daas/forcemigrationtool_install.htm)
 
 ## [Third-Party Offerings](https://appexchange.salesforce.com/appxSearchKeywordResults?keywords=backup&searchType=simpleSearch)
+![3rd party](img/3rd-party-1.png)
 - Helps to automate backups of both your data AND your metadata and provide a mechanism by which to **restore** that data easily.
 - Salesforce does not endorse or recommend one specific solution over another.
+
+
+## Prepare for data restore
+![Restore-1](img/restore-1.png)
 
 
 
