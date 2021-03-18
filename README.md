@@ -1,7 +1,7 @@
 # Best practices to backup Salesforce data
 
+## Video - How To: Platform: Back Up and Manage Salesforce Data
 - [![sf-backup](img/sf-backup-1.png)](https://salesforce.vidyard.com/watch/epvXNRWrrPHtto735nS2rh?)
--
 
 ## Key message
 - Develop a routine data backup strategy as part of their overall data management and security model.  
