@@ -1,5 +1,13 @@
 # Best practices to backup Salesforce data
 
+
+## Topics
+- [Data and Metadata](#dmd)
+- [Native options](#native)
+- [Data Restore](#restore)
+- [3rd Party offerings ](#3p)
+- [Archiving](#archiving)
+
 ## Video 
 - How To: Platform: Back Up and Manage Salesforce Data ```click to play```
 - [![sf-backup](img/sf-backup-1.png)](https://salesforce.vidyard.com/watch/epvXNRWrrPHtto735nS2rh?)
@@ -7,6 +15,7 @@
 ## Key message
 - Develop a routine data backup strategy as part of their overall data management and security model.  
 
+<a name='dmd'></a>
 
 ## Data and metadata
 
@@ -56,6 +65,7 @@
 ## Backup and Recovery Offerings
 ![offerings-1](img/backup-options-1.png)
 
+<a name='native'></a>
 ## Native Options for backing up the data
 ![data export service](img/dataExport-service-1.png)
 - [Export Backup Data from Salesforce UI](https://help.salesforce.com/articleView?id=sf.admin_exportdata.htm&type=5)
@@ -82,11 +92,14 @@
 
 - [Using ANT migration tool](https://developer.salesforce.com/docs/atlas.en-us.daas.meta/daas/forcemigrationtool_install.htm)
 
+<a name='3p'></a>
 ## [Third-Party Offerings](https://appexchange.salesforce.com/appxSearchKeywordResults?keywords=backup&searchType=simpleSearch)
 ![3rd party](img/3rd-party-1.png)
 - Helps to automate backups of both your data AND your metadata and provide a mechanism by which to **restore** that data easily.
 - Salesforce does not endorse or recommend one specific solution over another.
 
+
+<a name='data restore'></a>
 
 ## Prepare for data restore
 ![Restore-1](img/restore-1.png)
@@ -106,7 +119,13 @@
 
 ![diw](img/diw-1.png)
 
+## Dataloder
+![dl](img/dataloader-1.png)
 
+
+<a name='archiving'></a>
+
+## Archiving Data
 ## Resources
 - [Best practices to backup Salesforce data](https://help.salesforce.com/articleView?id=000334121&type=1&mode=1)
 
