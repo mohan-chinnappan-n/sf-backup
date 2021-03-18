@@ -1,5 +1,7 @@
 # Best practices to backup Salesforce data
 
+- [![sf-backup](img/sf-backup-1.png)](https://salesforce.vidyard.com/watch/epvXNRWrrPHtto735nS2rh?)
+-
 
 ## Key message
 - Develop a routine data backup strategy as part of their overall data management and security model.  
@@ -44,10 +46,27 @@
 - **Salesforce Services or a partner to assist**  in the restoration of the data, provided you  have a *copy of that data available*.
 
 
+
+
+
+
 ## Native Options for backing up the data
 - [Export Backup Data from Salesforce UI](https://help.salesforce.com/articleView?id=sf.admin_exportdata.htm&type=5)
 ![Native backup-1](img/dataexport-1.gif)
- 
+- [Manual: Export data using Dataloader](https://help.salesforce.com/articleView?id=sf.exporting_data.htm&type=5)
+- [Manual on-demand exports of your data via reports](https://help.salesforce.com/articleView?id=sf.reports_export.htm&type=5)
+
+## Native Options for backing up the metadata
+- [Change Sets](https://help.salesforce.com/articleView?id=changesets.htm&type=5)
+- [Sandbox Refresh](https://help.salesforce.com/articleView?id=data_sandbox_create.htm&type=5)
+- [Using ANT migration tool](https://developer.salesforce.com/docs/atlas.en-us.daas.meta/daas/forcemigrationtool_install.htm)
+
+## [Third-Party Offerings](https://appexchange.salesforce.com/appxSearchKeywordResults?keywords=backup&searchType=simpleSearch)
+- Helps to automate backups of both your data AND your metadata and provide a mechanism by which to **restore** that data easily.
+- Salesforce does not endorse or recommend one specific solution over another.
+
+
+
 ## Resources
 - [Best practices to backup Salesforce data](https://help.salesforce.com/articleView?id=000334121&type=1&mode=1)
 
