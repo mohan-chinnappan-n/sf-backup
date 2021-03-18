@@ -99,7 +99,7 @@
 - Salesforce does not endorse or recommend one specific solution over another.
 
 
-<a name='data restore'></a>
+<a name='restore'></a>
 
 ## Prepare for data restore
 ![Restore-1](img/restore-1.png)
