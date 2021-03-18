@@ -46,7 +46,7 @@
 
 ## Native Options for backing up the data
 - [Export Backup Data from Salesforce UI](https://help.salesforce.com/articleView?id=sf.admin_exportdata.htm&type=5)
-
+![Native backup-1](img/dataexport-1.gif)
  
 ## Resources
 - [Best practices to backup Salesforce data](https://help.salesforce.com/articleView?id=000334121&type=1&mode=1)
