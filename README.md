@@ -1,6 +1,6 @@
 # Best practices to backup Salesforce data
 
-## Video - How To: Platform: Back Up and Manage Salesforce Data
+## Video - How To: Platform: Back Up and Manage Salesforce Data ```click to play```
 - [![sf-backup](img/sf-backup-1.png)](https://salesforce.vidyard.com/watch/epvXNRWrrPHtto735nS2rh?)
 
 ## Key message
