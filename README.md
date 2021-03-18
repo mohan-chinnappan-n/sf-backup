@@ -58,4 +58,4 @@
 
 
 ## Trailhead
-- [Platform: How To Back Up and Manage Salesforce Data] (https://trailhead.salesforce.com/users/officialblaze/trailmixes/platform-how-to-backup-and-manage-salesforce-data)
+- [Platform: How To Back Up and Manage Salesforce Data](https://trailhead.salesforce.com/users/officialblaze/trailmixes/platform-how-to-backup-and-manage-salesforce-data)
