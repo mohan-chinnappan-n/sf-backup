@@ -24,8 +24,7 @@
 
 
 ## About Data Recovery Service
--  As of July 31, 2020, Data Recovery service has been **retired** and no longer available as a service. 
-
+- As of July 31, 2020, Data Recovery service has been **retired** and no longer available as a service. 
 
 
 ## Need for a restorable backup of the DATA
@@ -99,7 +98,13 @@
 
 ## Recover from Recycle bin
 ![recycle bin](img/recycle-bin-1.png)
+- You can [extend](https://help.salesforce.com/articleView?id=000336103&type=1&mode=1) the retention period of Recycle Bin from 15 days to 30 days.
+- Storage limit for the recyle bin
+    - The storage limit of recycle bin is 25 times the MBs of your  org storage. 
 
+## Data Import Wizard
+
+![diw](img/diw-1.png)
 
 
 ## Resources
