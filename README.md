@@ -74,11 +74,14 @@
 - [Sandbox Refresh](https://help.salesforce.com/articleView?id=data_sandbox_create.htm&type=5)
 ![sandbox copy](img/fullcopy-sbx-copy.png)
     - Can be refreshed once in 29 days
-- API method
 
+- API method
 ![API methods](img/api-method-1.png)
+
 ![API methods2](img/api-method-2.png)
--
+
+![Considerations](img/considerations-1.png)
+
 - [Using ANT migration tool](https://developer.salesforce.com/docs/atlas.en-us.daas.meta/daas/forcemigrationtool_install.htm)
 
 ## [Third-Party Offerings](https://appexchange.salesforce.com/appxSearchKeywordResults?keywords=backup&searchType=simpleSearch)
