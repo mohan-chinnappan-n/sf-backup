@@ -82,6 +82,9 @@
 
 ![Considerations](img/considerations-1.png)
 
+![Platform Considerations](img/platform-considerations-1.png)
+
+
 - [Using ANT migration tool](https://developer.salesforce.com/docs/atlas.en-us.daas.meta/daas/forcemigrationtool_install.htm)
 
 ## [Third-Party Offerings](https://appexchange.salesforce.com/appxSearchKeywordResults?keywords=backup&searchType=simpleSearch)
