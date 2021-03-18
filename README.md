@@ -97,6 +97,8 @@
 ### Recovery flow
 ![recovery flow](img/recovery-flow-1.png)
 
+## Recover from Recycle bin
+![recycle bin](img/recycle-bin-1.png)
 
 
 
